@@ -1,0 +1,21 @@
+{
+  "name": "segment-seed-db",
+  "description": "Seed fake data.",
+  "version": "0.0.1",
+  "author": "Andy Jiang",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lambtron/segment-seed-db"
+  },
+  "engines": {
+    "node": "6.3.1",
+    "npm": "3.10.3"
+  },
+  "dependencies": {
+    "moment": "2.15.1",
+    "faker": "3.1.0",
+    "uuid": "2.0.3",
+    "pg": "6.1.0"
+  }
+}
